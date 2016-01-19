@@ -3,6 +3,9 @@ package merchant.hdw.com.hdw_merchant;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 首页
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
