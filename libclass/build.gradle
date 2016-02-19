@@ -39,5 +39,5 @@ dependencies {
     compile('com.afollestad.material-dialogs:core:0.8.3.0@aar') {
         transitive = true
     }
-    compile 'com.squareup.okhttp3:okhttp:3.0.0'
+    compile 'com.squareup.retrofit:retrofit:2.0.0-beta2'
 }
